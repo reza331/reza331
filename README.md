@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Engineer<br>(JS , TS , React , Nextjs , Angular)<br><br>Telegram : @reza_re_frontDev
+Front-end Engineer<br>( JS , TS , React , Nextjs , Angular )<br><br>Telegram : @reza_re_frontDev
 
 
 ## 🌐 Socials:
